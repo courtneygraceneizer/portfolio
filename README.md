@@ -2,7 +2,7 @@
 A collection of my research projects in bioinformatics, genomics, and more!
 
 ### Surface Microbiome Analysis – PreMiEr ERC
-📌 GitHub Repository
+📌 [GitHub Repository]
 (https://github.com/courtneygraceneizer/PreMiEr_Surface_Microbiome_Analysis) (Coming Soon!)
 📝 Overview: Conducting surface microbiome sampling in built environments to assess microbial diversity across high-contact surfaces. Documenting metadata and preparing collected samples for DNA extraction and sequencing to analyze environmental microbial communities.
 
