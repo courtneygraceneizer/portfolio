@@ -1,6 +1,13 @@
 # portfolio
 A collection of my research projects in bioinformatics, genomics, and more!
 
+### Surface Microbiome Analysis – PreMiEr ERC
+📌 GitHub Repository
+(https://github.com/courtneygraceneizer/Nakaseomyces_Genome_Analysis) (Coming Soon!)
+📝 Overview: Conducting surface microbiome sampling in built environments to assess microbial diversity across high-contact surfaces. Documenting metadata and preparing collected samples for DNA extraction and sequencing to analyze environmental microbial communities.
+
+
+
 ### 🧬 Genome Analysis and Annotation of *Nakaseomyces nivariensis*  
 📌 [GitHub Repository](https://github.com/courtneygraceneizer/Nakaseomyces_Genome_Analysis) *(Coming Soon!)*  
 📝 Overview: Performed de novo genome assembly and annotation of *Nakaseomyces nivariensis* using HPC and bioinformatics tools. Conducted sequence comparison and transcription factor analysis to identify homologous sequences and assess gene functionality.  
